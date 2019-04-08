@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace glerupvej37.dk
+namespace glerupvej37.dk.Web
 {
     public class Startup
     {

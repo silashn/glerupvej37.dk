@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace glerupvej37.dk
+namespace glerupvej37.dk.Web
 {
     public class Program
     {

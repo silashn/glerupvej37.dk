@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Silas\\Documents\\glerupvej37.dk\\glerupvej37.dk.csproj",
-      "projectName": "glerupvej37.dk",
-      "projectPath": "C:\\Users\\Silas\\Documents\\glerupvej37.dk\\glerupvej37.dk.csproj",
+      "projectUniqueName": "C:\\Users\\Silas\\Documents\\glerupvej37.dk\\glerupvej37.dk.Web\\glerupvej37.dk.Web.csproj",
+      "projectName": "glerupvej37.dk.Web",
+      "projectPath": "C:\\Users\\Silas\\Documents\\glerupvej37.dk\\glerupvej37.dk.Web\\glerupvej37.dk.Web.csproj",
       "packagesPath": "C:\\Users\\Silas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Silas\\Documents\\glerupvej37.dk\\obj\\",
+      "outputPath": "C:\\Users\\Silas\\Documents\\glerupvej37.dk\\glerupvej37.dk.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
