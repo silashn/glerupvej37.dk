@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Silas\\.nuget\\packages\\": {},
+    "C:\\Users\\KraggHC\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Silas\\Documents\\glerupvej37.dk\\glerupvej37.dk.Data\\glerupvej37.dk.Data.csproj",
+      "projectUniqueName": "B:\\ASP.NET\\glerupvej37.dk\\glerupvej37.dk.Data\\glerupvej37.dk.Data.csproj",
       "projectName": "glerupvej37.dk.Data",
-      "projectPath": "C:\\Users\\Silas\\Documents\\glerupvej37.dk\\glerupvej37.dk.Data\\glerupvej37.dk.Data.csproj",
-      "packagesPath": "C:\\Users\\Silas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Silas\\Documents\\glerupvej37.dk\\glerupvej37.dk.Data\\obj\\",
+      "projectPath": "B:\\ASP.NET\\glerupvej37.dk\\glerupvej37.dk.Data\\glerupvej37.dk.Data.csproj",
+      "packagesPath": "C:\\Users\\KraggHC\\.nuget\\packages\\",
+      "outputPath": "B:\\ASP.NET\\glerupvej37.dk\\glerupvej37.dk.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Silas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KraggHC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
