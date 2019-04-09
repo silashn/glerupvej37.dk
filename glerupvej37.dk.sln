@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "glerupvej37.dk.Web", "glerupvej37.dk.Web\glerupvej37.dk.Web.csproj", "{688E87E4-8888-4950-BEE1-F0E1BE64E8F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "glerupvej37.dk.Data", "glerupvej37.dk.Data\glerupvej37.dk.Data.csproj", "{02F4C44A-96D2-4E03-B397-3E5B8A38E1EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{688E87E4-8888-4950-BEE1-F0E1BE64E8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688E87E4-8888-4950-BEE1-F0E1BE64E8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688E87E4-8888-4950-BEE1-F0E1BE64E8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688E87E4-8888-4950-BEE1-F0E1BE64E8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F4C44A-96D2-4E03-B397-3E5B8A38E1EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F4C44A-96D2-4E03-B397-3E5B8A38E1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F4C44A-96D2-4E03-B397-3E5B8A38E1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F4C44A-96D2-4E03-B397-3E5B8A38E1EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5100164D-11E9-4240-BD15-8706E32BEE0A}
+	EndGlobalSection
+EndGlobal
